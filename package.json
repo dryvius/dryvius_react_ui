@@ -2,7 +2,12 @@
   "name": "dryvius_react_ui",
   "version": "1.0.0",
   "description": "Personal ui library of React 19",
-  "main": "index.js",
+  "main": "dist/d_ui.cjs.js",
+  "module": "dist/d_ui.esm.js",
+  "types": "dist/types/d_ui.d.ts",
+  "files": [
+    "dist"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",

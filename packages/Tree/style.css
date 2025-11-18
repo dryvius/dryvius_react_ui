@@ -1,0 +1,18 @@
+/* tree component styles */
+
+.tree {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.tree-node {
+    margin-left: 20px;
+}
+
+span {
+    cursor: pointer;
+}
