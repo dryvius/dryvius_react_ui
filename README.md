@@ -1,2 +1,2 @@
-# react_study
-Personal study of React 19
+# dryvius_react_ui_lib
+Personal ui library of React 19
